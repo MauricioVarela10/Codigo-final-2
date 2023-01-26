@@ -1,0 +1,9 @@
+                                   !!!Bienvenidos a Nuestro Sistema de Consultas!!!
+ 
+Desarrollado por: Mauricio Varela, Steve Cherres, Edwin Velasco.
+
+Instrucciones:
+-Ingrese sus datos sin espacios, utilice "-" o "_" para hacer una separacion.
+-No utilice caracteres especiales como tildes.
+
+Escriba "1" para continuar:

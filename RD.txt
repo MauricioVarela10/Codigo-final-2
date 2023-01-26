@@ -1,0 +1,7 @@
+Nombre: juan
+ Edad: 21
+ Id: 1969197903
+ Sexo: masculino
+ Sector: solca
+ Telefono o Celular: 0969097903
+ Email: mauricio14@gmail.com
