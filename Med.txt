@@ -1,0 +1,39 @@
+Lista de medicos:
+
+1 : Juan Gabriel Ramos - Medico General
+
+2 : Arsenio Montes - Pediatra
+
+3 : Michelle de Castro - Ginecologia
+
+4 : Narciso Quiroga - Cardiologia
+
+5 : Alma Latorre - Nutricionista
+
+6 : Oriol Cordoba - Traumatologo
+
+7 : Teresa Carro - Dentista
+
+8 : Maria-Fernanda Barbero - Oftalmologia
+
+9 : Jose-Ignacio Palacio - Urologia
+
+10 : Samara Agullo - Psiquiatria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
